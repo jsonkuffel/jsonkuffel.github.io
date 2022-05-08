@@ -42,16 +42,17 @@
       }
     ],
     "uniqCompNum": 40,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.6.8",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-icon-bottomless-downscaled-128x128_1.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "mbrsiteDomain": "1zlvhesfht"
   },
   "pages": {
     "index.html": {
