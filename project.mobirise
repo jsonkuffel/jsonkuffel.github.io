@@ -42,10 +42,10 @@
       }
     ],
     "uniqCompNum": 40,
-    "versionPublish": "5.6.8",
+    "versionPublish": "4.12.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-icon-bottomless-downscaled-128x128_1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-icon-bottomless-downscaled-128x128-1.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
