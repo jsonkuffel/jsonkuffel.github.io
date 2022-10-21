@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MuseHub",
-    "currentPage": "about-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 49,
+    "uniqCompNum": 51,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -1023,8 +1023,8 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "false",
-            "slides__autoplayInterval": 4000,
+            "slides__autoplay": "true",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -1053,7 +1053,7 @@
                 "showText": false,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=UgBnZ9t0qiE",
+                "videoUrl": "https://youtu.be/73wavGQWf3Y",
                 "customStyle1": "display-4",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
@@ -3454,9 +3454,8 @@
             }
           },
           "_name": "gallery2",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#f26200\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3f3f3f\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\"></div>\n    </div>\n\n</section>",
-          "_cid": "tcaKuFJHhg",
-          "_anchor": "gallery2-1a",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3f3f3f\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"0\"></div>\n    </div>\n\n</section>",
+          "_cid": "tkUTryvZpB",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -3471,12 +3470,25 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Creative",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022921-1231252022-9-5-12-34-24.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=73wavGQWf3Y",
+                "image": "@PROJECT_PATH@/assets/images/background1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background1.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022620-1910572022-6-3-19-23-47.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=UgBnZ9t0qiE",
-                "image": "@PROJECT_PATH@/assets/images/background3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background2.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -3484,12 +3496,12 @@
                 "active": true
               },
               {
-                "tags": "Responsive",
+                "tags": "Creative",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022620-1910572022-6-3-19-23-5.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/Dg3v6CBcwrg",
-                "image": "@PROJECT_PATH@/assets/images/background2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background2.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=Dg3v6CBcwrg",
+                "image": "@PROJECT_PATH@/assets/images/background3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background3.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -3498,9 +3510,9 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022620-1910572022-6-3-19-24-37.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022620-1910572022-6-3-19-22-34.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/Rm-WhshARDU",
+                "videoUrl": "https://www.youtube.com/watch?v=6FeDDLYzwps&t=1s",
                 "image": "@PROJECT_PATH@/assets/images/background4.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background4.jpg",
                 "alt": "",
@@ -3508,22 +3520,10 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022620-1910572022-6-3-19-22-34.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=6FeDDLYzwps",
-                "image": "@PROJECT_PATH@/assets/images/background1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background1.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
-          }
+          },
+          "_anchor": "gallery2-1e"
         },
         {
           "alias": false,
