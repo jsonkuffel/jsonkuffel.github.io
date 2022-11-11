@@ -1029,7 +1029,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-210185438-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1067,7 +1067,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/background2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
