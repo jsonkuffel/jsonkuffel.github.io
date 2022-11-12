@@ -1072,7 +1072,7 @@
                 "showText": false,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/Nrq4lf28ICQ",
+                "videoUrl": "https://youtu.be/L5Kt5Sg_-Mo",
                 "customStyle1": "display-4",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
@@ -3498,16 +3498,16 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20221010-2058232022-10-4-21-0-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20221012-173152022-10-6-17-4-25.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/Nrq4lf28ICQ",
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-resized-2000x1055.png",
-                "thumb": "@PROJECT_PATH@/assets/images/thumbnail-resized-2000x1055-800x422.png",
+                "videoUrl": "https://youtu.be/L5Kt5Sg_-Mo",
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-2000x1055.png",
+                "thumb": "@PROJECT_PATH@/assets/images/thumbnail-2000x1055-800x422.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -3533,7 +3533,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
