@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MuseHub",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1072,7 +1072,7 @@
                 "showText": false,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/L5Kt5Sg_-Mo",
+                "videoUrl": "https://youtu.be/NuOKj0hOgjQ",
                 "customStyle1": "display-4",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
@@ -3500,7 +3500,7 @@
                 "tags": "Responsive",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20221012-173152022-10-6-17-4-25.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/L5Kt5Sg_-Mo",
+                "videoUrl": "https://youtu.be/NuOKj0hOgjQ",
                 "image": "@PROJECT_PATH@/assets/images/thumbnail-2000x1055.png",
                 "thumb": "@PROJECT_PATH@/assets/images/thumbnail-2000x1055-800x422.png",
                 "alt": "",
