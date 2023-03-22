@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MuseHub",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3507,13 +3507,13 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022620-1910572022-6-3-19-23-5.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023220-183082023-2-3-11-1-34.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=Dg3v6CBcwrg",
+                "videoUrl": "https://youtu.be/I95p9sEH7sw",
                 "image": "@PROJECT_PATH@/assets/images/background3.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background3.jpg",
                 "alt": "",
@@ -3521,6 +3521,19 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023220-183082023-2-3-11-7-29.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/iv0946lSiZs",
+                "image": "@PROJECT_PATH@/assets/images/hmmm-edited-2000x1125.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hmmm-edited-2000x1125-800x450.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
