@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MuseHub V2",
-    "currentPage": "weddings.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -57,7 +57,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-icon-bottomless-downscaled-128x128.png",
-    "mbrsiteDomain": "1zamtwno8h",
+    "mbrsiteDomain": "b1eyjwuayd",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -73,7 +73,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "MuseHub | Home",
         "meta_descr": "Where business finds its narrative.",
         "header_custom": "",
         "footer_custom": "",
